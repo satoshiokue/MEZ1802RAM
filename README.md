@@ -1,5 +1,5 @@
 # MEZ1802RAM
-## 1802RAM Mezzanine board for EMUZ80  
+## 1802 Mezzanine board for EMUZ80  
 Schematics:  
 https://github.com/satoshiokue/MEZ1802RAM/blob/main/MEZ1802RAM.pdf  
 Gerber Data:  
